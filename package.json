@@ -1,0 +1,23 @@
+{
+  "name": "ativippi2",
+  "version": "1.0.0",
+  "description": "Atividade 2 de PPI",
+  "main": "ativippi2.js",
+  "scripts": {
+    "start": "node ativippi2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisLeonardobs/ativippi2.git"
+  },
+  "author": "Luis Leonardo Barbosa e Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisLeonardobs/ativippi2/issues"
+  },
+  "homepage": "https://github.com/LuisLeonardobs/ativippi2#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
